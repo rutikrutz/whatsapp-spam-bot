@@ -1,5 +1,5 @@
 # whatsapp-spam-bot
-This is cmd/terminal tool for whatsapp message spamming 
+A Tool for whatsapp message spamming 
 
 This is a Tool you can use for spamming whatsapp , telegram
 or any other messangers just with one click
