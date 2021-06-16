@@ -1,0 +1,4 @@
+python>=3.9.5
+rich>=10.3.0
+PyAutoGUI>=0.9.52
+Python>=3.9.5
